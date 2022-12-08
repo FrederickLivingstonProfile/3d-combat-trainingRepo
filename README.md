@@ -1,1 +1,2 @@
-# 3d-combat-trainingRepo Hello World!
+# 3d-combat-trainingRepo 
+Hello World!
